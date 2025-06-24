@@ -1,56 +1,48 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lelan Hu - Personal Website</title>
-    <style>
-        body {
-            background-color: #2b2d42;
-            color: #e0e1dd;
-            font-family: -apple-system, Arial, sans-serif;
-            max-width: 650px;
-            margin: 0 auto;
-            padding: 60px 20px;
-            line-height: 1.6;
-        }
-        h1 { font-size: 3em; margin-bottom: 20px; }
-        a { color: #e0e1dd; text-decoration: underline; }
-        a:hover { color: white; }
-        .nav { margin-bottom: 40px; }
-        .nav a { margin-right: 20px; }
-        .section { margin: 30px 0; }
-        ul { list-style: none; padding: 0; }
-        li { margin: 10px 0; }
-        li:before { content: "• "; }
-    </style>
-</head>
-<body>
-    <h1>Lelan Hu</h1>
+---
+layout: default
+---
+<div class="home">
+  <section class="intro">
+    <h1>Hello, I'm Lelan Hu</h1>
+    <p class="lead">Welcome to my personal corner of the internet. I write about technology, productivity, and life experiences.</p>
+  </section>
+  
+  <section class="recent-posts">
+    <h2>Recent Posts</h2>
+    <ul class="post-list">
+      {% for post in site.posts limit:5 %}
+        <li>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h3>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h3>
+          {% if post.excerpt %}
+            <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
     
-    <div class="nav">
-        <a href="mailto:lelan.j.hu@gmail.com">email</a>
-        <a href="#about">about</a>
-        <a href="#projects">projects</a>
+    <p class="more-posts">
+      <a href="{{ '/blog/' | relative_url }}">View all posts →</a>
+    </p>
+  </section>
+  
+  <section class="highlights">
+    <h2>Explore</h2>
+    <div class="highlight-cards">
+      <div class="card">
+        <h3><a href="{{ '/writing/' | relative_url }}">Writing</a></h3>
+        <p>Essays and thoughts on various topics</p>
+      </div>
+      <div class="card">
+        <h3><a href="{{ '/quotes/' | relative_url }}">Quotes</a></h3>
+        <p>Curated collection of inspiring quotes</p>
+      </div>
+      <div class="card">
+        <h3><a href="{{ '/about/' | relative_url }}">About</a></h3>
+        <p>Learn more about me and my work</p>
+      </div>
     </div>
-    
-    <div class="section" id="about">
-        <p>I'm a [Your Role] at [Company] working on [what you do]. 
-        This is my personal corner of the internet.</p>
-    </div>
-    
-    <div class="section" id="projects">
-        <h2>Recent Work</h2>
-        <ul>
-            <li>Project 1 - Description</li>
-            <li>Project 2 - Description</li>
-            <li>Project 3 - Description</li>
-        </ul>
-    </div>
-    
-    <div class="section">
-        <p>Find me on <a href="https://github.com/hulelan">GitHub</a> 
-        or <a href="https://twitter.com/hulelan">Twitter</a>.</p>
-    </div>
-</body>
-</html>
+  </section>
+</div>

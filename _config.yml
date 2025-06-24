@@ -1,0 +1,54 @@
+# Site settings
+title: Lelan Hu
+email: lelan.j.hu@gmail.com
+description: Personal website of Lelan Hu - thoughts on technology, productivity, and life
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://lelanhu.com" # the base hostname & protocol for your site
+twitter_username: hulelan
+github_username: hulelan
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Lelan Hu"
+
+# Navigation
+navigation:
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
+  - title: Writing
+    url: /writing/
+  - title: Quotes
+    url: /quotes/
+
+# Analytics (add your tracking ID)
+google_analytics: 
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
