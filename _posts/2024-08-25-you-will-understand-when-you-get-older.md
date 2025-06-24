@@ -2,7 +2,6 @@
 layout: post
 title: "you will understand when you get older"
 date: 2024-08-25
-categories: [life, culture, cooking]
 tags: [cooking, tradition, friendship, poetry]
 ---
 
