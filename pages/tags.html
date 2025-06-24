@@ -1,0 +1,40 @@
+---
+layout: page
+title: Tags
+permalink: /tags/
+---
+
+<div class="tags-page">
+  {% comment %}
+    Collect all tags from all posts
+  {% endcomment %}
+  {% assign all_tags = site.posts | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
+  
+  {% comment %}
+    Display tag cloud
+  {% endcomment %}
+  <div class="tag-cloud">
+    {% for tag in all_tags %}
+      <a href="#{{ tag | slugify }}" class="tag tag-link">{{ tag }}</a>
+    {% endfor %}
+  </div>
+  
+  {% comment %}
+    Display posts by tag
+  {% endcomment %}
+  {% for tag in all_tags %}
+    <div id="{{ tag | slugify }}" class="tag-section">
+      <h2>{{ tag }}</h2>
+      <ul class="simple-list">
+        {% for post in site.posts %}
+          {% if post.tags contains tag %}
+            <li>
+              <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span> | 
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
