@@ -6,16 +6,16 @@
 }
 
 :root {
-  --primary-color: #5a4a42;
-  --text-color: #4a3d35;
-  --light-gray: #7a6d65;
-  --lighter-gray: #9a8d85;
-  --border-color: #e8ddd0;
-  --background: #fdfcf8;
-  --link-color: #8a6c57;
-  --link-hover: #6d5545;
-  --accent-tan: #f5f0e8;
-  --light-tan: #faf8f3;
+  --primary-color: #f5f0e8;
+  --text-color: #e8ddd0;
+  --light-gray: #c4b5a0;
+  --lighter-gray: #a89480;
+  --border-color: #3a3432;
+  --background: #141110;
+  --link-color: #d4a574;
+  --link-hover: #e8c19e;
+  --accent-tan: #1a1816;
+  --light-tan: #1f1c1a;
   --max-width: 720px;
 }
 
@@ -265,19 +265,21 @@ a:hover {
 
 .post-content code,
 .page-content code {
-  background: #f5f5f5;
+  background: #1f1c1a;
   padding: 0.2em 0.4em;
   border-radius: 3px;
   font-size: 0.9em;
+  color: #e8c19e;
 }
 
 .post-content pre,
 .page-content pre {
-  background: #f5f5f5;
+  background: #1f1c1a;
   padding: 1em;
   border-radius: 4px;
   overflow-x: auto;
   margin-bottom: 1em;
+  border: 1px solid var(--border-color);
 }
 
 .post-content pre code,

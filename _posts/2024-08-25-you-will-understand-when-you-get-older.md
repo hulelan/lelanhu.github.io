@@ -5,7 +5,7 @@ date: 2024-08-25
 categories: [life, culture, cooking]
 ---
 
-I was running on a quiet path a few days ago when my phone interrupts me with a buzzing notification. A college friend had requested to follow me on Beli (I would invest in it if I could). They're a good friend, and yet I hadn't thought of them in a while. In that moment, I finally understood why social media exists.
+I was running on a quiet path a few days ago when my phone interrupted with a buzzing notification. A college friend had requested to follow me on Beli (great app). I would consider them a good friend, and yet I hadn't thought of them in a while. In that moment, I finally understood why social media exists.
 
 I would use Beli more if I made more money, or if restaurants gave me more joy per $. In the meantime, I've finally graduated "learning to cook." I enrolled myself immediately in "improving as a cook." A few months ago, I added some tablespoons and teaspoons and pounds of sauces and beef and broccoli, moaning all the time about what the hell garlic and ginger are for. I was surprised that the result was good! Magic! The second time wasn't easier, nor was the third time really. But now I've made the same beef and broccoli a little more than ten times, along with tomato and egg and other stuff. Nowhere near [Visa's do 100 things](https://x.com/visakanv/status/1672704570752143360). Still, now I understand what my father meant with the frustrating answer "a little bit" every time I ask "please, just tell me how much sesame oil it needs."
 
