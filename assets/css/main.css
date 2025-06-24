@@ -385,3 +385,19 @@ a:hover {
   }
 }
 
+/* 404 Error Page */
+.error-page {
+  text-align: center;
+  padding: 2em 0;
+}
+
+.error-image {
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 2em;
+  display: block;
+  border-radius: 8px;
+  opacity: 0.9;
+}
+
