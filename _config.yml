@@ -26,16 +26,6 @@ defaults:
       layout: "post"
       author: "Lelan Hu"
 
-# Navigation
-navigation:
-  - title: About
-    url: /about/
-  - title: Blog
-    url: /blog/
-  - title: Writing
-    url: /writing/
-  - title: Quotes
-    url: /quotes/
 
 # Analytics (add your tracking ID)
 google_analytics: 

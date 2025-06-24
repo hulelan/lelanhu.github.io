@@ -3,14 +3,5 @@
     <div class="site-title">
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
     </div>
-    
-    <nav class="site-nav">
-      {% for item in site.navigation %}
-        <a href="{{ item.url | relative_url }}" 
-           {% if page.url == item.url %}class="active"{% endif %}>
-          {{ item.title }}
-        </a>
-      {% endfor %}
-    </nav>
   </div>
 </header>

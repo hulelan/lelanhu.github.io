@@ -70,10 +70,7 @@ a:hover {
 }
 
 .site-header .container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
+  text-align: center;
 }
 
 .site-title a {
@@ -84,17 +81,6 @@ a:hover {
   text-decoration: none;
 }
 
-.site-nav a {
-  margin-left: 2em;
-  color: var(--light-gray);
-  font-size: 0.95em;
-}
-
-.site-nav a:hover,
-.site-nav a.active {
-  color: var(--primary-color);
-  text-decoration: none;
-}
 
 /* Main Content */
 .main-content {
@@ -107,6 +93,20 @@ a:hover {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.simple-list {
+  list-style: none;
+  margin: 1em 0;
+}
+
+.simple-list li {
+  margin-bottom: 0.5em;
+}
+
+.simple-list .date {
+  color: var(--lighter-gray);
+  font-size: 0.9em;
 }
 
 .intro h1 {
@@ -326,22 +326,6 @@ a:hover {
     font-size: 16px;
   }
   
-  .site-header .container {
-    flex-direction: column;
-    text-align: center;
-  }
-  
-  .site-nav {
-    margin-top: 1em;
-  }
-  
-  .site-nav a {
-    margin: 0 0.7em;
-  }
-  
-  .site-nav a:first-child {
-    margin-left: 0;
-  }
   
   .highlight-cards {
     grid-template-columns: 1fr;
