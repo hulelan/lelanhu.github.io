@@ -6,14 +6,16 @@
 }
 
 :root {
-  --primary-color: #333;
-  --text-color: #444;
-  --light-gray: #666;
-  --lighter-gray: #999;
-  --border-color: #e0e0e0;
-  --background: #fff;
-  --link-color: #0066cc;
-  --link-hover: #0052a3;
+  --primary-color: #4a3f36;
+  --text-color: #3d332a;
+  --light-gray: #6b5d54;
+  --lighter-gray: #8b7d74;
+  --border-color: #d4c4b0;
+  --background: #faf8f3;
+  --link-color: #7a5c47;
+  --link-hover: #5d4535;
+  --accent-tan: #e8ddd0;
+  --light-tan: #f5f0e8;
   --max-width: 720px;
 }
 
@@ -37,7 +39,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 { 
   font-size: 2.5em;
-  text-shadow: 0 0 40px rgba(255, 236, 179, 0.15);
 }
 h2 { font-size: 2em; }
 h3 { font-size: 1.5em; }
@@ -56,7 +57,6 @@ a {
 a:hover {
   color: var(--link-hover);
   text-decoration: underline;
-  text-shadow: 0 0 8px rgba(255, 236, 179, 0.3);
 }
 
 /* Layout */
@@ -71,8 +71,7 @@ a:hover {
   padding: 2em 0;
   border-bottom: 1px solid var(--border-color);
   margin-bottom: 3em;
-  position: relative;
-  z-index: 10;
+  background: var(--light-tan);
 }
 
 .site-header .container {
@@ -92,8 +91,6 @@ a:hover {
 .main-content {
   min-height: calc(100vh - 300px);
   margin-bottom: 4em;
-  position: relative;
-  z-index: 10;
 }
 
 /* Home Page */
@@ -308,8 +305,7 @@ a:hover {
   border-top: 1px solid var(--border-color);
   padding: 2em 0;
   margin-top: 4em;
-  position: relative;
-  z-index: 10;
+  background: var(--accent-tan);
 }
 
 .footer-content {
@@ -365,79 +361,3 @@ a:hover {
   }
 }
 
-/* Sunlight filtering through leaves effect */
-.light-overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  z-index: 1;
-  opacity: 0.5;
-  background: 
-    /* Main sunlight from above */
-    radial-gradient(ellipse 800px 600px at 50% -10%, 
-      rgba(255, 236, 179, 0.3) 0%, 
-      transparent 60%),
-    /* Scattered light spots */
-    radial-gradient(circle 300px at 20% 25%, 
-      rgba(255, 246, 215, 0.2) 0%, 
-      transparent 50%),
-    radial-gradient(circle 250px at 75% 20%, 
-      rgba(255, 241, 199, 0.2) 0%, 
-      transparent 45%),
-    radial-gradient(circle 200px at 85% 60%, 
-      rgba(255, 248, 220, 0.15) 0%, 
-      transparent 50%),
-    radial-gradient(circle 180px at 15% 70%, 
-      rgba(255, 243, 205, 0.2) 0%, 
-      transparent 45%);
-}
-
-/* Organic leaf shadows */
-.leaf-shadows {
-  position: fixed;
-  top: -10%;
-  left: -10%;
-  width: 120%;
-  height: 120%;
-  pointer-events: none;
-  z-index: 2;
-  opacity: 0.3;
-  background: 
-    /* Large leaf shapes */
-    radial-gradient(ellipse 350px 450px at 30% 20%, 
-      transparent 35%, 
-      rgba(0, 0, 0, 0.4) 36%, 
-      transparent 38%),
-    radial-gradient(ellipse 300px 400px at 70% 40%, 
-      transparent 33%, 
-      rgba(0, 0, 0, 0.35) 34%, 
-      transparent 36%),
-    radial-gradient(ellipse 280px 350px at 45% 65%, 
-      transparent 35%, 
-      rgba(0, 0, 0, 0.3) 36%, 
-      transparent 38%),
-    /* Smaller leaves */
-    radial-gradient(ellipse 200px 250px at 15% 45%, 
-      transparent 32%, 
-      rgba(0, 0, 0, 0.3) 33%, 
-      transparent 35%),
-    radial-gradient(ellipse 180px 220px at 85% 75%, 
-      transparent 30%, 
-      rgba(0, 0, 0, 0.35) 31%, 
-      transparent 33%);
-  transform: rotate(-20deg);
-  animation: leafSway 40s ease-in-out infinite;
-}
-
-/* Gentle animation */
-@keyframes leafSway {
-  0%, 100% { 
-    transform: rotate(-20deg) translateX(0); 
-  }
-  50% { 
-    transform: rotate(-17deg) translateX(15px); 
-  }
-}
