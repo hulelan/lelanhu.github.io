@@ -9,13 +9,13 @@ github_username: hulelan
 
 # Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
+permalink: /writing/:year/:month/:day/:title/
 
 # Collections
 collections:
   posts:
     output: true
-    permalink: /blog/:year/:month/:day/:title/
+    permalink: /writing/:year/:month/:day/:title/
 
 # Defaults
 defaults:

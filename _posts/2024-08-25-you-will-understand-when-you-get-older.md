@@ -2,7 +2,7 @@
 layout: post
 title: "you will understand when you get older"
 date: 2024-08-25
-tags: [cooking, tradition, friendship, poetry]
+tags: [feeling]
 ---
 
 I was running on a quiet path a few days ago when my phone interrupted with a buzzing notification. A college friend had requested to follow me on Beli (great app). I would consider them a good friend, and yet I hadn't thought of them in a while. In that moment, I finally understood why social media exists.
