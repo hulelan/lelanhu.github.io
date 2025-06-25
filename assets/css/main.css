@@ -110,36 +110,51 @@
 }
 
 .aurora1 {
-  background: radial-gradient(ellipse 600px 200px at 50% 50%, 
-    rgba(0, 255, 170, 0.3) 0%, 
-    rgba(0, 255, 255, 0.2) 40%, 
-    transparent 70%
-  );
-  filter: blur(40px);
+  background: 
+    radial-gradient(ellipse 800px 300px at 30% 40%, 
+      rgba(0, 255, 150, 0.4) 0%, 
+      rgba(0, 200, 255, 0.2) 50%, 
+      transparent 80%
+    ),
+    radial-gradient(ellipse 600px 200px at 70% 60%, 
+      rgba(100, 255, 200, 0.3) 0%, 
+      transparent 60%
+    );
+  filter: blur(30px);
   transform: rotate(-20deg);
-  animation: aurora-wave1 25s ease-in-out infinite;
+  animation: aurora-wave1 40s ease-in-out infinite;
 }
 
 .aurora2 {
-  background: radial-gradient(ellipse 800px 300px at 60% 40%, 
-    rgba(0, 170, 255, 0.3) 0%, 
-    rgba(170, 0, 255, 0.15) 50%, 
-    transparent 70%
-  );
-  filter: blur(60px);
-  transform: rotate(15deg);
-  animation: aurora-wave2 30s ease-in-out infinite;
+  background: 
+    radial-gradient(ellipse 1000px 400px at 80% 20%, 
+      rgba(50, 150, 255, 0.35) 0%, 
+      rgba(150, 100, 255, 0.2) 40%, 
+      transparent 75%
+    ),
+    radial-gradient(ellipse 700px 250px at 20% 80%, 
+      rgba(100, 50, 255, 0.25) 0%, 
+      transparent 65%
+    );
+  filter: blur(45px);
+  transform: rotate(25deg);
+  animation: aurora-wave2 50s ease-in-out infinite;
 }
 
 .aurora3 {
-  background: radial-gradient(ellipse 700px 250px at 30% 60%, 
-    rgba(255, 0, 170, 0.2) 0%, 
-    rgba(0, 255, 170, 0.15) 40%, 
-    transparent 65%
-  );
-  filter: blur(50px);
-  transform: rotate(-30deg);
-  animation: aurora-wave3 35s ease-in-out infinite;
+  background: 
+    radial-gradient(ellipse 900px 350px at 50% 30%, 
+      rgba(255, 100, 150, 0.3) 0%, 
+      rgba(200, 255, 100, 0.15) 45%, 
+      transparent 70%
+    ),
+    radial-gradient(ellipse 500px 180px at 10% 70%, 
+      rgba(255, 150, 200, 0.2) 0%, 
+      transparent 55%
+    );
+  filter: blur(35px);
+  transform: rotate(-35deg);
+  animation: aurora-wave3 60s ease-in-out infinite;
 }
 
 @keyframes aurora-wave1 {
