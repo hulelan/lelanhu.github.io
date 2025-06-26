@@ -3,9 +3,9 @@ title: Lelan Hu
 email: lelan.j.hu@gmail.com
 description: Personal website of Lelan Hu - thoughts on technology, productivity, and life
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lelanhu.com" # the base hostname & protocol for your site
-twitter_username: hulelan
-github_username: hulelan
+url: "https://www.lelanhu.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username: 
 
 # Build settings
 markdown: kramdown
