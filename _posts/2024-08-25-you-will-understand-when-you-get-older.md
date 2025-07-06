@@ -2,8 +2,10 @@
 layout: post
 title: "you will understand when you get older"
 date: 2024-08-25
-tags: [feeling]
+tags: [human]
 ---
+
+![Dumplings in soup](/assets/images/dumplings-2024-08-25.jpg)
 
 I was running downhill along North Woods when a non-Strava buzzing notification interrupted. A college friend had requested to follow me on Beli (fun app!). A kindred soul, and yet I hadn't thought of them once since moving cities. In that moment, I finally understood why social media exists.
 
