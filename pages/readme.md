@@ -5,9 +5,9 @@ permalink: /readme/
 ---
 
 The form of this README is shamelessly poached from Zhengdong Wang. He starts his README with the following:
-    Instead of attempting the daunting task of writing about myself (I am perennially unhappy with the results), here is a collection of things I want to associate myself with. They are things I like, things I think about, things that have influenced me. You can interpolate the rest.
+    *<i>Instead of attempting the daunting task of writing about myself (I am perennially unhappy with the results), here is a collection of things I want to associate myself with. They are things I like, things I think about, things that have influenced me. You can interpolate the rest.</i>*
 
-I'll add that writing about yourself also fossilizes one possible story. A person is too complex to fit in even their own mind, so while you must distill that into a story to make yourself legible to others, an expansive life requires that you retain internal narrative dynamism.  
+I'll add that writing about yourself also fossilizes one possible story. A person is too complex to fit in even their own mind, so while you must distill that into a story to make yourself legible to others, an expansive life requires that you retain internal narrative dynamism. There are many stories implicit in this, but let us live out a different one. 
 
 A totalizing meme. It is true, it is false, and it is somewhere in between. 
 ![Ayy lmao meme](/assets/images/ayy-lmao.png)
