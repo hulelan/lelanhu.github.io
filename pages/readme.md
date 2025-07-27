@@ -9,7 +9,6 @@ The form of this README is shamelessly poached from Zhengdong Wang. He starts hi
 
 I'll add that writing about yourself also fossilizes one possible story. While it's true that you ought to make yourself knowable to others to live effectively in the world, narrative dynamism is important to an expansive life. 
 
-I begin with this meme, the modern version of yin-yang. I believe in it sometimes. 
-
+I begin with this meme. It is true, it not false, it is somewhere in between. 
 ![Ayy lmao meme](/assets/images/ayy-lmao.png)
 
