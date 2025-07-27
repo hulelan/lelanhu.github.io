@@ -540,6 +540,21 @@ a.tag-link:hover {
   padding: 0;
 }
 
+/* Images */
+.post-content img,
+.page-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+}
+
+/* Prevent horizontal scrolling */
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
 /* Post Navigation */
 .post-nav {
   display: flex;
