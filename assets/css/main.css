@@ -203,7 +203,7 @@
 /* Typography */
 body {
   font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.6;
   color: var(--text-color);
   background: var(--background);
@@ -555,6 +555,42 @@ html, body {
   width: 100%;
 }
 
+/* Collapsible sections */
+.post-content details,
+.page-content details {
+  margin: 1em 0;
+  padding: 0.5em;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  background: var(--accent-tan);
+}
+
+.post-content details summary,
+.page-content details summary {
+  cursor: pointer;
+  padding: 0.5em;
+  margin: -0.5em;
+  font-weight: 500;
+  color: var(--link-color);
+  transition: color 0.2s ease;
+}
+
+.post-content details summary:hover,
+.page-content details summary:hover {
+  color: var(--link-hover);
+}
+
+.post-content details[open] summary,
+.page-content details[open] summary {
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.post-content details p:first-of-type,
+.page-content details p:first-of-type {
+  margin-top: 1em;
+}
+
 /* Post Navigation */
 .post-nav {
   display: flex;
@@ -599,7 +635,7 @@ html, body {
 /* Responsive */
 @media (max-width: 768px) {
   body {
-    font-size: 16px;
+    font-size: 15px;
   }
   
   
