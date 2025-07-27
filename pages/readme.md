@@ -37,28 +37,28 @@ Some titles on humanity as we exist as individuals. Is this philosophy? Is this 
   <details>
   <summary>There is no such thing as excerpting propositions, but here are some: </summary>
   
-  > *5.6 <i>The limits of my language</i> mean the limits of my world.*
-  > *6.5 <b> When an answer cannot be stated, neither can the question be stated.*
-  >> *There is no such thing as <i>the riddle</i>.*
-    
-  >> *If a question can be posed at all, then it <i>can</i> also be answered. </b>**
+  > *5.6 The limits of my language mean the limits of my world.*
+  
+  > *6.5 When an answer cannot be stated, neither can the question be stated.*
+  >> *There is no such thing as the riddle.*
+  >> *If a question can be posed at all, then it can also be answered.*
 
-  >*6.521 The solution to the problem of life is found in the vanishing of the problem.*
-
+  > *6.521 The solution to the problem of life is found in the vanishing of the problem.*
   >> *(Is this not the reason why those to whom the meaning of life became clear after prolonged doubt, could not then say in what this meaning consisted?)*
 
   > *6.522 There is, though, the ineffable.*
-  >>*This <i>shows</i> itself, it is the mystical.*
+  >> *This shows itself, it is the mystical.*
   </details>
 
 
 Some titles on beauty. 
+
 **Math** 
 One of the best things to happen to me (and worst things for my GPA) was studying math in college. I had done barely any STEM in high school. I didn’t think I could do it. I didn’t think I wanted to do it. Turns out I just needed a proofs class to transform me with the really unmatchable sensation of "understanding truth" and seeing the world in a new way. 
 - *A Mathematician's Lament* from Paul Lockhart on the terrible way math is usually taught. It's a book about mathematics as art and play and the what it might mean to actually understand something. 
 - Andrew Neitzke's class notes for Real Analysis. 
 
-**To Be Read**
+**Literature**
 - Gabriel García Márquez' *A Hundred Years of Solitude*. 
   <details>
   <summary>An excerpt</summary>
@@ -71,10 +71,10 @@ One of the best things to happen to me (and worst things for my GPA) was studyin
 - Iris Murdoch's *The Sea, The Sea*. 
 - Bulgakov's *The Master and Margarita*. 
 
-**To Be Listened**
+**Music**
 - Radiohead's album *In Rainbows*. Notably, "Weird Fishes/Arpeggi".
 
-**To Be Seen**
+**Visual Arts**
 - Rothko 
 - Monet 
 - Kandinsky
