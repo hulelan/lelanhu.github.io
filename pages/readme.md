@@ -36,10 +36,18 @@ Some titles on humanity as we exist as individuals. Is this philosophy? Is this 
   <details>
   <summary>There is no such thing as excerpting propositions, but here are some: </summary>
   
-  5.6 <i>The limits of my language</i> mean the limits of my world. 
-  6.5 <b> When an answer cannot be stated, neither can the question be stated. There is no such thing as <i>the riddle</i>. If a question can be posed at all, then it <i>can</i> also be answered. </b>
-  6.521 The solution to the problem of life is found in the vanishing of the problem. (Is this not the reason why those to whom the meaning of life became clear after prolonged doubt, could not then say in what this meaning consisted?)
-  6.522 There is, though, the ineffable. This <i>shows</i> itself, it is the mystical.
+  *5.6 <i>The limits of my language</i> mean the limits of my world.*
+  *6.5 <b> When an answer cannot be stated, neither can the question be stated.*
+    *There is no such thing as <i>the riddle</i>.*
+    
+    *If a question can be posed at all, then it <i>can</i> also be answered. </b>**
+
+  *6.521 The solution to the problem of life is found in the vanishing of the problem.*
+
+    *(Is this not the reason why those to whom the meaning of life became clear after prolonged doubt, could not then say in what this meaning consisted?)*
+
+  *6.522 There is, though, the ineffable.*
+    *This <i>shows</i> itself, it is the mystical.*
   </details>
 
 
