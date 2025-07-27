@@ -2,10 +2,8 @@
 layout: post
 title: "you will understand when you get older"
 date: 2024-08-25
-tags: [human]
+tags: [aliveness]
 ---
-
-![Dumplings in soup](/assets/images/dumplings-2024-08-25.jpg)
 
 I was running downhill along North Woods when a non-Strava buzzing notification interrupted. A college friend had requested to follow me on Beli (fun app!). A kindred soul, and yet I hadn't thought of them once since moving cities. In that moment, I finally understood why social media exists.
 
@@ -17,7 +15,7 @@ I am growing into the target demographic for NYT Cooking. These are windows into
 
 There's a joy in merging practice and theory. 知行合一. When we were whisking the dumpling filling, C tells me that sesame oil increases the perceived moisture of the product. The fat retains moisture in meat and adds an oily, rich texture that creates the sensation of tenderness. Later, I watch C slide the salmon into the oven's top rack. The salmon comes out with a brown and crisp top. He says this is broiling. After dinner, I watch a [Youtube video](https://www.youtube.com/@MagicIngredients) on making pan-fried buns. After making the filling and the dough from scratch, she adds enough oil to coat the bottom of the pan before setting down the buns and replacing the lid. Ah, of course, that's why the buns' bottoms are brown and the heads soft. The world reveals itself to me.
 
-I also feel my life stretching laterally into new corners of human experience.
+I also feel my life stretching laterally into n     ew corners of human experience.
 
 I remember the cultural classes in elementary school. Everyone sits around a table cutting paper snowflakes or wrapping dumplings. Arguably, all of Chinese class was cultural education. We memorized poems and 文学常识 ("common sense for literature") and spent little time on grammar and systematically learning new words.
 
