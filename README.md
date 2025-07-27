@@ -1,6 +1,6 @@
 # Personal Website - Lelan Hu
 
-A minimalist personal website built with Jekyll, inspired by zhengdongwang.com.
+A minimalist personal website built with Jekyll.
 
 ## Features
 
