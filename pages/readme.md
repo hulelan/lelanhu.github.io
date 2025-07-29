@@ -49,7 +49,8 @@ Some titles on humanity as we exist as individuals. Is this philosophy? Is this 
   > *6.522 There is, though, the ineffable.*
   >> *This shows itself, it is the mystical.*
   </details>
-
+- bookbear express
+- [be well tuned](http://bewelltuned.com/). I actually encountered this very recently, but it's an accurate and synthesized representation of many other ideas.
 
 Some titles on beauty. 
 
