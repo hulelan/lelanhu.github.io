@@ -12,8 +12,8 @@
   --lighter-gray: #aaaaaa;
   --border-color: #006600;
   --background: #003300;
-  --link-color: #88ff88;
-  --link-hover: #aaffaa;
+  --link-color: #ffffff;
+  --link-hover: #ffffff;
   --accent-tan: #004400;
   --light-tan: #005500;
   --max-width: 720px;
@@ -60,13 +60,12 @@ p {
 
 a {
   color: var(--link-color);
-  text-decoration: none;
-  transition: color 0.2s ease;
+  text-decoration: underline;
+  transition: opacity 0.2s ease;
 }
 
 a:hover {
-  color: var(--link-hover);
-  text-decoration: underline;
+  opacity: 0.8;
 }
 
 /* Layout */
