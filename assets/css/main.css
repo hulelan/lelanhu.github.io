@@ -560,21 +560,14 @@ html, body {
   border-radius: 2px;
 }
 
-/* Adjust main content when sidebar is active */
-.content-wrapper.sidebar-open {
-  margin-right: 320px;
-  transition: margin-right 0.3s ease;
-}
+/* Remove content adjustment - sidebar should overlay */
+/* .content-wrapper.sidebar-open styles removed */
 
 /* Responsive sidebar */
 @media (max-width: 768px) {
   .sidebar {
     width: 100%;
     right: -100%;
-  }
-  
-  .content-wrapper.sidebar-open {
-    margin-right: 0;
   }
 }
 

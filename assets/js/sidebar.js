@@ -59,7 +59,6 @@ class SidebarAnnotations {
     this.clearHideTimeout();
     this.sidebarContent.innerHTML = `<div class="sidebar-note">${content}</div>`;
     this.sidebar.classList.add('active');
-    document.querySelector('.content-wrapper').classList.add('sidebar-open');
   }
 
   scheduleSidebarHide() {
@@ -70,7 +69,6 @@ class SidebarAnnotations {
 
   hideSidebar() {
     this.sidebar.classList.remove('active');
-    document.querySelector('.content-wrapper').classList.remove('sidebar-open');
   }
 
   clearHideTimeout() {
