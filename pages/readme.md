@@ -10,28 +10,28 @@ The form of this README is shamelessly poached from Zhengdong Wang. He starts [h
 
 I'll add that writing about yourself also fossilizes one possible story. A person is too complex to fit in even their own mind, so while you must distill that into a story to make yourself legible to others, an expansive life requires that you retain internal narrative dynamism. There are many stories implicit in this list, but let us live out a better one. 
 
-A totalizing meme. It is true, it is false, and it is somewhere in between. 
 ![Ayy lmao meme](/assets/images/ayy-lmao.png)
 
 **The Collective**
-- <span data-note="Sebastian Mallaby's book about hedge funds and the brilliant, eccentric minds behind some of the most successful investment strategies in history.">*More Money Than God*</span> is awesome and fun. The swashbucklers who were right.  
-- <span data-note="Daniel Yergin's Pulitzer Prize-winning epic about oil and how it shaped the modern world, from the first oil well to geopolitics.">*The Prize*</span> is technically a history of oil, but it's really a wonderful depiction of "economics" and "politics" as they exist at the more granular level of individual interactions and choices. 
+-*More Money Than God* is awesome and fun. The swashbucklers who were right.  
+- *The Prize* is technically a history of oil, but it's really a wonderful depiction of "economics" and "politics" as they exist at the more granular level of individual interactions and choices. 
 - *Varieties of Capitalism* is a "classic political science text." In the "ayy lmao" between grand theories and small experiments, it's a "new theorization of the grand theory of institutions." I liked its relatively expansive reach and tolerance of gray areas between its categories. 
 - *Poor Economics* is a "small experiments" volume. I ended up going through their development economics certification too, and there's something wonderful about the thought that you can make incremental progress towards solving the big problems of hunger and disease. 
 - *Faith in Moderation* from Jillian Schwedler is somewhere in between. I don't remember most of the claims, but I remember it as the first book that connected it theorization to the specificity of the real world, moved between layers of abstractions, and was incredibly granular and precise in its analysis and claims. 
 
 **Progress**
-- *Chasing the Flaame* 
-- *Pieces of the Action* 
+- Samantha Power's *Chasing the Flaame* 
+- Vannevar Bush's *Pieces of the Action* 
 - Jobs
 - Michael Nielsen's [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html). Spaced repetition flash cards might not seem so related to "progress," but as [gwern](https://gwern.net/spaced-repetition#where-was-i-going-with-this) says, "It’s a testament to the Enlightenment ideal of improving humanity through reason and overcoming our human flaws...it’s really nice to just have a small example like this in one’s daily life, an example not yet so prosaic and boring as the lightbulb." 
 
 **Godhead**
-Some titles on humanity as we exist as individuals. Is this philosophy? Is this religion? Is this Twitter discourse? Is this about experience or about reality? I probably signal ignorance by mixing everything together, but I am ignorant and hence cannot help it. 
+- [Rob Burbea](https://www.youtube.com/watch?v=n03ZNoO-_p0&list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&ab_channel=RobBurbeaTalks)
+- Bhagavad Gita. I read the Easwaran translation.
+- <span data-note="[Tweet 1](https://x.com/nickcammarata/status/1471314545637400577)">Nick Cammarata tweets</span>
 - [mistranslating the buddha: most of the problem is your reaction to it](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html)
-- Nick Cammarata
 - Visakan Veerasamy
-- [Rob Burbea](https://www.youtube.com/watch?v=KaLPTYoq6sI&list=PLO6hhaAzLmiqUzBYuLLJQ8FexOTRxz8xF&ab_channel=RobBurbeaTalks)
+
 - Wittgenstein's *Tractatus* 
   <details>
   <summary>There is no such thing as excerpting propositions, but here are some: </summary>
@@ -54,8 +54,8 @@ Some titles on humanity as we exist as individuals. Is this philosophy? Is this 
 Some titles on beauty. 
 
 **Math** 
-One of the best things to happen to me (and worst things for my GPA) was studying math in college. I had done barely any STEM in high school. I didn’t think I could do it. I didn’t think I wanted to do it. Turns out I just needed a proofs class to transform me with the really unmatchable sensation of "understanding truth" and seeing the world in a new way. 
-- *A Mathematician's Lament* from Paul Lockhart on the terrible way math is usually taught. It's a book about mathematics as art and play and the what it might mean to actually understand something. 
+We can all be transformed with the really unmatchable sensation of "understanding truth" and seeing the world in a new way. 
+- *A Mathematician's Lament* from Paul Lockhart on the terrible way math is usually taught. What might it mean to actually understand something? 
 - Andrew Neitzke's class notes for Real Analysis. 
 
 **Literature**
