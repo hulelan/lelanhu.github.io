@@ -6,197 +6,24 @@
 }
 
 :root {
-  --primary-color: #f5f0e8;
-  --text-color: #e8ddd0;
-  --light-gray: #c4b5a0;
-  --lighter-gray: #a89480;
-  --border-color: #3a3432;
-  --background: #000;
-  --link-color: #d4a574;
-  --link-hover: #e8c19e;
-  --accent-tan: #1a1816;
-  --light-tan: #1f1c1a;
+  --primary-color: #2c2c2c;
+  --text-color: #4a4a4a;
+  --light-gray: #6a6a6a;
+  --lighter-gray: #8a8a8a;
+  --border-color: #e0d5c7;
+  --background: #f5ead6;
+  --link-color: #5a7a9a;
+  --link-hover: #4a6a8a;
+  --accent-tan: #fdf8f0;
+  --light-tan: #f9f2e6;
   --max-width: 720px;
 }
 
-/* Aurora Background */
-.aurora-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: #000;
-  z-index: 1;
-}
-
-/* Stars */
-.stars {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-}
-
-.star {
-  position: absolute;
-  background: white;
-  border-radius: 50%;
-  animation: twinkle 3s ease-in-out infinite;
-}
-
-.star.small {
-  width: 1px;
-  height: 1px;
-  opacity: 0.8;
-}
-
-.star.medium {
-  width: 2px;
-  height: 2px;
-  opacity: 0.9;
-}
-
-.star.large {
-  width: 3px;
-  height: 3px;
-  opacity: 1;
-  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
-}
-
-/* Star positions */
-.star:nth-child(1) { top: 10%; left: 15%; animation-delay: 0s; }
-.star:nth-child(2) { top: 20%; left: 85%; animation-delay: 0.5s; }
-.star:nth-child(3) { top: 15%; left: 50%; animation-delay: 1s; }
-.star:nth-child(4) { top: 30%; left: 25%; animation-delay: 1.5s; }
-.star:nth-child(5) { top: 25%; left: 70%; animation-delay: 2s; }
-.star:nth-child(6) { top: 40%; left: 10%; animation-delay: 0.3s; }
-.star:nth-child(7) { top: 5%; left: 40%; animation-delay: 0.8s; }
-.star:nth-child(8) { top: 45%; left: 60%; animation-delay: 1.3s; }
-.star:nth-child(9) { top: 35%; left: 90%; animation-delay: 1.8s; }
-.star:nth-child(10) { top: 50%; left: 30%; animation-delay: 2.3s; }
-.star:nth-child(11) { top: 8%; left: 75%; animation-delay: 0.2s; }
-.star:nth-child(12) { top: 55%; left: 45%; animation-delay: 0.7s; }
-.star:nth-child(13) { top: 18%; left: 5%; animation-delay: 1.2s; }
-.star:nth-child(14) { top: 60%; left: 80%; animation-delay: 1.7s; }
-.star:nth-child(15) { top: 12%; left: 35%; animation-delay: 2.2s; }
-.star:nth-child(16) { top: 48%; left: 95%; animation-delay: 0.4s; }
-.star:nth-child(17) { top: 65%; left: 20%; animation-delay: 0.9s; }
-.star:nth-child(18) { top: 38%; left: 55%; animation-delay: 1.4s; }
-.star:nth-child(19) { top: 70%; left: 65%; animation-delay: 1.9s; }
-.star:nth-child(20) { top: 22%; left: 42%; animation-delay: 2.4s; }
-
-@keyframes twinkle {
-  0%, 100% { opacity: 0.3; }
-  50% { opacity: 1; }
-}
-
-/* Aurora */
-.aurora {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-}
-
-.aurora-layer {
-  position: absolute;
-  width: 200%;
-  height: 200%;
-  top: -50%;
-  left: -50%;
-  opacity: 0.4;
-}
-
-.aurora1 {
-  background: 
-    radial-gradient(ellipse 800px 300px at 30% 40%, 
-      rgba(0, 255, 150, 0.4) 0%, 
-      rgba(0, 200, 255, 0.2) 50%, 
-      transparent 80%
-    ),
-    radial-gradient(ellipse 600px 200px at 70% 60%, 
-      rgba(100, 255, 200, 0.3) 0%, 
-      transparent 60%
-    );
-  filter: blur(30px);
-  transform: rotate(-20deg);
-  animation: aurora-wave1 40s ease-in-out infinite;
-}
-
-.aurora2 {
-  background: 
-    radial-gradient(ellipse 1000px 400px at 80% 20%, 
-      rgba(50, 150, 255, 0.35) 0%, 
-      rgba(150, 100, 255, 0.2) 40%, 
-      transparent 75%
-    ),
-    radial-gradient(ellipse 700px 250px at 20% 80%, 
-      rgba(100, 50, 255, 0.25) 0%, 
-      transparent 65%
-    );
-  filter: blur(45px);
-  transform: rotate(25deg);
-  animation: aurora-wave2 50s ease-in-out infinite;
-}
-
-.aurora3 {
-  background: 
-    radial-gradient(ellipse 900px 350px at 50% 30%, 
-      rgba(255, 100, 150, 0.3) 0%, 
-      rgba(200, 255, 100, 0.15) 45%, 
-      transparent 70%
-    ),
-    radial-gradient(ellipse 500px 180px at 10% 70%, 
-      rgba(255, 150, 200, 0.2) 0%, 
-      transparent 55%
-    );
-  filter: blur(35px);
-  transform: rotate(-35deg);
-  animation: aurora-wave3 60s ease-in-out infinite;
-}
-
-@keyframes aurora-wave1 {
-  0%, 100% { 
-    transform: rotate(-20deg) translate(0, 0) scale(1); 
-  }
-  25% {
-    transform: rotate(-25deg) translate(10%, -5%) scale(1.1);
-  }
-  50% { 
-    transform: rotate(-15deg) translate(-5%, 10%) scale(0.95); 
-  }
-  75% {
-    transform: rotate(-22deg) translate(5%, 5%) scale(1.05);
-  }
-}
-
-@keyframes aurora-wave2 {
-  0%, 100% { 
-    transform: rotate(15deg) translate(0, 0) scale(1); 
-  }
-  33% {
-    transform: rotate(20deg) translate(-10%, 5%) scale(1.15);
-  }
-  66% { 
-    transform: rotate(10deg) translate(5%, -10%) scale(0.9); 
-  }
-}
-
-@keyframes aurora-wave3 {
-  0%, 100% { 
-    transform: rotate(-30deg) translate(0, 0) scale(1); 
-  }
-  50% { 
-    transform: rotate(-35deg) translate(15%, 10%) scale(1.2); 
-  }
-}
+/* Removed aurora and star effects for cleaner design */
 
 /* Content wrapper */
 .content-wrapper {
   position: relative;
-  z-index: 10;
   min-height: 100vh;
 }
 
@@ -254,8 +81,6 @@ a:hover {
   padding: 2em 0;
   border-bottom: 1px solid var(--border-color);
   margin-bottom: 3em;
-  position: relative;
-  z-index: 100;
 }
 
 .site-header .container {
@@ -275,8 +100,6 @@ a:hover {
 .main-content {
   min-height: calc(100vh - 300px);
   margin-bottom: 4em;
-  position: relative;
-  z-index: 100;
 }
 
 /* Home Page */
@@ -517,16 +340,17 @@ a.tag-link:hover {
 
 .post-content code,
 .page-content code {
-  background: #1f1c1a;
+  background: var(--accent-tan);
   padding: 0.2em 0.4em;
   border-radius: 3px;
   font-size: 0.9em;
-  color: #e8c19e;
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
 }
 
 .post-content pre,
 .page-content pre {
-  background: #1f1c1a;
+  background: var(--accent-tan);
   padding: 1em;
   border-radius: 4px;
   overflow-x: auto;
@@ -610,8 +434,6 @@ html, body {
   border-top: 1px solid var(--border-color);
   padding: 2em 0;
   margin-top: 4em;
-  position: relative;
-  z-index: 100;
 }
 
 .footer-content {
@@ -683,14 +505,5 @@ html, body {
   opacity: 0.9;
 }
 
-/* Aurora hover effect */
-@media (min-width: 768px) {
-  .aurora-container {
-    transition: filter 0.5s ease;
-  }
-  
-  body:hover .aurora-container {
-    filter: brightness(1.1);
-  }
-}
+/* Removed aurora hover effect */
 
