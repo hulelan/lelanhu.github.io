@@ -506,3 +506,74 @@ html, body {
 
 /* Removed aurora hover effect */
 
+/* Sidebar for hover annotations */
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: -350px;
+  width: 320px;
+  height: 100vh;
+  background: var(--accent-tan);
+  border-left: 2px solid var(--border-color);
+  padding: 20px;
+  transition: right 0.3s ease;
+  z-index: 1000;
+  overflow-y: auto;
+}
+
+.sidebar.active {
+  right: 0;
+}
+
+.sidebar-content {
+  color: var(--text-color);
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.sidebar-title {
+  font-weight: bold;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-color);
+  color: var(--primary-color);
+}
+
+.sidebar-note {
+  margin-bottom: 15px;
+  padding: 10px;
+  background: var(--light-tan);
+  border-radius: 4px;
+  border-left: 3px solid var(--border-color);
+}
+
+/* Hoverable text highlighting */
+.hoverable-text {
+  position: relative;
+  cursor: help;
+  transition: background-color 0.2s ease;
+}
+
+.hoverable-text:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+}
+
+/* Adjust main content when sidebar is active */
+.content-wrapper.sidebar-open {
+  margin-right: 320px;
+  transition: margin-right 0.3s ease;
+}
+
+/* Responsive sidebar */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    right: -100%;
+  }
+  
+  .content-wrapper.sidebar-open {
+    margin-right: 0;
+  }
+}
+

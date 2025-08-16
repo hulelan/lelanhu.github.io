@@ -14,8 +14,8 @@ A totalizing meme. It is true, it is false, and it is somewhere in between.
 ![Ayy lmao meme](/assets/images/ayy-lmao.png)
 
 **The Collective**
-- *More Money Than God* is awesome and fun. The swashbucklers who were right.  
-- *The Prize* is technically a history of oil, but it's really a wonderful depiction of "economics" and "politics" as they exist at the more granular level of individual interactions and choices. 
+- <span data-note="Sebastian Mallaby's book about hedge funds and the brilliant, eccentric minds behind some of the most successful investment strategies in history.">*More Money Than God*</span> is awesome and fun. The swashbucklers who were right.  
+- <span data-note="Daniel Yergin's Pulitzer Prize-winning epic about oil and how it shaped the modern world, from the first oil well to geopolitics.">*The Prize*</span> is technically a history of oil, but it's really a wonderful depiction of "economics" and "politics" as they exist at the more granular level of individual interactions and choices. 
 - *Varieties of Capitalism* is a "classic political science text." In the "ayy lmao" between grand theories and small experiments, it's a "new theorization of the grand theory of institutions." I liked its relatively expansive reach and tolerance of gray areas between its categories. 
 - *Poor Economics* is a "small experiments" volume. I ended up going through their development economics certification too, and there's something wonderful about the thought that you can make incremental progress towards solving the big problems of hunger and disease. 
 - *Faith in Moderation* from Jillian Schwedler is somewhere in between. I don't remember most of the claims, but I remember it as the first book that connected it theorization to the specificity of the real world, moved between layers of abstractions, and was incredibly granular and precise in its analysis and claims. 
