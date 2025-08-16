@@ -10,12 +10,12 @@
   --text-color: #ffffff;
   --light-gray: #cccccc;
   --lighter-gray: #aaaaaa;
-  --border-color: #002200;
-  --background: #001100;
+  --border-color: #333333;
+  --background: #000000;
   --link-color: #ffffff;
   --link-hover: #ffffff;
-  --accent-tan: #002200;
-  --light-tan: #003300;
+  --accent-tan: #111111;
+  --light-tan: #222222;
   --max-width: 720px;
 }
 
@@ -33,7 +33,7 @@ body {
   font-size: 14px;
   line-height: 1.6;
   color: var(--text-color);
-  background: #003300 !important;
+  background: #000000 !important;
   -webkit-font-smoothing: antialiased;
   margin: 0;
   padding: 0;
