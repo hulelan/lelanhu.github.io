@@ -13,21 +13,20 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 A totalizing meme. It is true, it is false, and it is somewhere in between. 
 ![Ayy lmao meme](/assets/images/ayy-lmao.png)
 
-I was born shortly after China formally allowed private enterprises and joined the WTO. I was also raised on science fiction, courtesy of my father. Both gave me a taste of and for infinite "progress." Technology makes life better for everyone, but humanity's self-destructive tendencies will persist.
-
-Some titles on humanity as we exist in collectives. 
+**The Collective**
 - *More Money Than God* is awesome and fun. The swashbucklers who were right.  
 - *The Prize* is technically a history of oil, but it's really a wonderful depiction of "economics" and "politics" as they exist at the more granular level of individual interactions and choices. 
-- *Varieties of Capitalism* is a pretty classic political science text. In the "ayy lmao" between grand theories and small experiments, it's a "new theorization of the grand theory of institutions." I liked its relatively expansive reach and tolerance of gray areas between its categories. 
+- *Varieties of Capitalism* is a "classic political science text." In the "ayy lmao" between grand theories and small experiments, it's a "new theorization of the grand theory of institutions." I liked its relatively expansive reach and tolerance of gray areas between its categories. 
 - *Poor Economics* is a "small experiments" volume. I ended up going through their development economics certification too, and there's something wonderful about the thought that you can make incremental progress towards solving the big problems of hunger and disease. 
 - *Faith in Moderation* from Jillian Schwedler is somewhere in between. I don't remember most of the claims, but I remember it as the first book that connected it theorization to the specificity of the real world, moved between layers of abstractions, and was incredibly granular and precise in its analysis and claims. 
 
-Some titles on progress (or the difficulty of progress).
-- *Chasing the Flame* 
+**Progress**
+- *Chasing the Flaame* 
 - *Pieces of the Action* 
 - Jobs
 - Michael Nielsen's [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html). Spaced repetition flash cards might not seem so related to "progress," but as [gwern](https://gwern.net/spaced-repetition#where-was-i-going-with-this) says, "It’s a testament to the Enlightenment ideal of improving humanity through reason and overcoming our human flaws...it’s really nice to just have a small example like this in one’s daily life, an example not yet so prosaic and boring as the lightbulb." 
 
+**Godhead**
 Some titles on humanity as we exist as individuals. Is this philosophy? Is this religion? Is this Twitter discourse? Is this about experience or about reality? I probably signal ignorance by mixing everything together, but I am ignorant and hence cannot help it. 
 - [mistranslating the buddha: most of the problem is your reaction to it](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html)
 - Nick Cammarata
@@ -71,14 +70,18 @@ One of the best things to happen to me (and worst things for my GPA) was studyin
 - Anthony Bourdain's *Kitchen Confidential*. 
 - Iris Murdoch's *The Sea, The Sea*. 
 - Bulgakov's *The Master and Margarita*. 
+- Frank O’Hara's *Mayakovsky*. 
 
 **Music**
 - Radiohead's album *In Rainbows*. Notably, "Weird Fishes/Arpeggi".
+- Chick Corea's *Spain*. The life! The fun!
 
 **Visual Arts**
 - Rothko 
 - Monet 
 - Kandinsky
-- Picasso's *Repose*
+- Picasso's *Repose*. She's perfect. 
+- Anna Laura 
+- Joan Miró
 - [insert calligraphy]
 
