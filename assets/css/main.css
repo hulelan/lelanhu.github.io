@@ -548,6 +548,37 @@ html, body {
   border-left: 3px solid var(--border-color);
 }
 
+/* New annotation styles */
+.sidebar-annotation {
+  margin-bottom: 20px;
+  padding: 12px;
+  background: var(--light-tan);
+  border-radius: 4px;
+  border-left: 3px solid var(--border-color);
+  transition: all 0.3s ease;
+}
+
+.sidebar-annotation.highlighted {
+  background: var(--accent-tan);
+  border-left-color: var(--primary-color);
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.1);
+}
+
+.annotation-text {
+  font-size: 0.85em;
+  color: var(--lighter-gray);
+  font-style: italic;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 6px;
+}
+
+.annotation-note {
+  font-size: 0.9em;
+  line-height: 1.4;
+  color: var(--text-color);
+}
+
 /* Hoverable text highlighting */
 .hoverable-text {
   position: relative;
