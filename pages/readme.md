@@ -29,7 +29,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 
 - [Rob Burbea](https://www.youtube.com/watch?v=n03ZNoO-_p0&list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&ab_channel=RobBurbeaTalks)
 - Bhagavad Gita. I read the Easwaran translation.
-- <span data-note="[Tweet 1](hhttps://x.com/nickcammarata/status/1649952823843463168)">Nick Cammarata tweets</span>
+- [Nick Cammarata](https://x.com/nickcammarata/status/1649952823843463168)
 - [mistranslating the buddha: most of the problem is your reaction to it](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html)
 - Visakan Veerasamy
 
