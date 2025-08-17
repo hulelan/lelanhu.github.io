@@ -13,7 +13,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 ![Ayy lmao meme](/assets/images/ayy-lmao.png)
 
 **The Collective**
--*More Money Than God* is awesome and fun. The swashbucklers who were right.  
+- *More Money Than God* is awesome and fun.
 - *The Prize* is technically a history of oil, but it's really a wonderful depiction of "economics" and "politics" as they exist at the more granular level of individual interactions and choices. 
 - *Varieties of Capitalism* is a "classic political science text." In the "ayy lmao" between grand theories and small experiments, it's a "new theorization of the grand theory of institutions." I liked its relatively expansive reach and tolerance of gray areas between its categories. 
 - *Poor Economics* is a "small experiments" volume. I ended up going through their development economics certification too, and there's something wonderful about the thought that you can make incremental progress towards solving the big problems of hunger and disease. 
@@ -26,9 +26,10 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 - Michael Nielsen's [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html). Spaced repetition flash cards might not seem so related to "progress," but as [gwern](https://gwern.net/spaced-repetition#where-was-i-going-with-this) says, "It’s a testament to the Enlightenment ideal of improving humanity through reason and overcoming our human flaws...it’s really nice to just have a small example like this in one’s daily life, an example not yet so prosaic and boring as the lightbulb." 
 
 **Godhead**
+
 - [Rob Burbea](https://www.youtube.com/watch?v=n03ZNoO-_p0&list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&ab_channel=RobBurbeaTalks)
 - Bhagavad Gita. I read the Easwaran translation.
-- <span data-note="[Tweet 1](https://x.com/nickcammarata/status/1471314545637400577)">Nick Cammarata tweets</span>
+- <span data-note="[Tweet 1](hhttps://x.com/nickcammarata/status/1649952823843463168)">Nick Cammarata tweets</span>
 - [mistranslating the buddha: most of the problem is your reaction to it](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html)
 - Visakan Veerasamy
 
