@@ -28,7 +28,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 **Godhead**
 
 - [Rob Burbea](https://www.youtube.com/watch?v=n03ZNoO-_p0&list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&ab_channel=RobBurbeaTalks)
-- Bhagavad Gita. I read the Easwaran translation.
+- Bhagavad Gita. I read the Easwaran translation. (Dhammapada, Siddhartha from Hesse)
 - [Nick Cammarata](https://x.com/nickcammarata/status/1649952823843463168)
 - [mistranslating the buddha: most of the problem is your reaction to it](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html)
 - Visakan Veerasamy
@@ -52,7 +52,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 - bookbear express
 - [be well tuned](http://bewelltuned.com/). I actually encountered this very recently, but it's an accurate and synthesized representation of many other ideas.
 
-Some titles on beauty. 
+**Some titles on beauty.**
 
 **Math** 
 We can all be transformed with the really unmatchable sensation of "understanding truth" and seeing the world in a new way. 
