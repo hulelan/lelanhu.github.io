@@ -18,6 +18,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 - *Varieties of Capitalism* is a "classic political science text." In the "ayy lmao" between grand theories and small experiments, it's a "new theorization of the grand theory of institutions." I liked its relatively expansive reach and tolerance of gray areas between its categories. 
 - *Poor Economics* is a "small experiments" volume. I ended up going through their development economics certification too, and there's something wonderful about the thought that you can make incremental progress towards solving the big problems of hunger and disease. 
 - *Faith in Moderation* from Jillian Schwedler is somewhere in between. I don't remember most of the claims, but I remember it as the first book that connected it theorization to the specificity of the real world, moved between layers of abstractions, and was incredibly granular and precise in its analysis and claims. 
+- *Breakneck* from Dan Wang. Complicated things require thinking that allows multitudes and apparent contradictions. This is one suck book 
 
 **Progress**
 - Samantha Power's *Chasing the Flaame* 
@@ -27,9 +28,9 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 
 **Godhead**
 
+- Bhagavad Gita. Easwaran's introduction is quite clear as well. I also found the Dhammapada (also Easwaran) and Siddhartha (from Herman Hesse) educational in complementary ways. 
+- Nick Cammarata. [tanha 1](https://x.com/nickcammarata/status/1566589893136064512) [tanha 2](https://x.com/nickcammarata/status/1649952823843463168)
 - [Rob Burbea](https://www.youtube.com/watch?v=n03ZNoO-_p0&list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&ab_channel=RobBurbeaTalks)
-- Bhagavad Gita. I read the Easwaran translation. (Dhammapada, Siddhartha from Hesse)
-- [Nick Cammarata](https://x.com/nickcammarata/status/1649952823843463168)
 - [mistranslating the buddha: most of the problem is your reaction to it](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html)
 - Visakan Veerasamy
 
@@ -50,9 +51,6 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
   >> *This shows itself, it is the mystical.*
   </details>
 - bookbear express
-- [be well tuned](http://bewelltuned.com/). I actually encountered this very recently, but it's an accurate and synthesized representation of many other ideas.
-
-**Some titles on beauty.**
 
 **Math** 
 We can all be transformed with the really unmatchable sensation of "understanding truth" and seeing the world in a new way. 
@@ -66,7 +64,7 @@ We can all be transformed with the really unmatchable sensation of "understandin
   
   Before them, surrounded by ferns and palm trees, white and powdery in the silent morning light, was an enormous Spanish galleon. Tilted slightly to the starboard, it had hanging from its intact masts the dirty rags of its sails in the midst of its rigging, which was adorned with orchids. The hull, covered with an armor of petrified barnacles and soft moss, was firmly fastened into a surface of stones. The whole structure seemed to occupy its own space, one of solitude and oblivion, protected from the vices of time and the habits of the birds. Inside, where the expeditionaries explored with careful intent, there was nothing but a thick forest of flowers.
   </details>
-- David Foster Wallace's *Infinite Jest*, *This Is Water* (video [here](https://www.youtube.com/watch?v=5tIk4IOOeco)), and "Roger Federer as a Religious Experience" (works not named are because I haven't read them).
+- David Foster Wallace's *Infinite Jest*, *This Is Water* (video [here](https://www.youtube.com/watch?v=5tIk4IOOeco)), and "Roger Federer as a Religious Experience".
 - Vladimir Nabokov's *Speak, Memory* and *Lolita*. 
 - Anthony Bourdain's *Kitchen Confidential*. 
 - Iris Murdoch's *The Sea, The Sea*. 
@@ -78,10 +76,10 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - Chick Corea's *Spain*. The life! The fun!
 
 **Visual Arts**
-- Rothko 
-- Monet 
+- Rothko. It is a great gift to see one in person and an even greater joy to see 115 of them in Paris (thanks Arnault!). 
+- Monet. Obviously, but the colors are delicate, precise, take you somewhere that doesn't exist but is also everywhere in nature. 
 - Kandinsky
-- Picasso's *Repose*. She's perfect. 
+- Picasso's *Repose*. She's perfect!
 - Anna Laura 
 - Joan Miró
 - [insert calligraphy]
