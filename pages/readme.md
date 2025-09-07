@@ -83,4 +83,3 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - Anna Laura 
 - Joan Miró
 - [insert calligraphy]
-
