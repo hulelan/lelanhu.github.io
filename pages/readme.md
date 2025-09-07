@@ -30,7 +30,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 **Technology** 
 Really this should be bundled in "progress," since progress is the result of a supportive context (hence politics, economics) for great science and its applications. Despite America's loss of manufacturing communities and the resulting "process knowledge," the online community is really great. I have really enjoyed reading from [Simon Willison](https://simonwillison.net/) and [Paul Graham](https://www.paulgraham.com/).
 
-**Godhead**
+**Beingness, Godhead**
 
 - Bhagavad Gita. Easwaran's introduction is quite clear as well. I also found the Dhammapada (also Easwaran) and Siddhartha (from Herman Hesse) educational in complementary ways. 
 - Nick Cammarata. [tanha 1](https://x.com/nickcammarata/status/1566589893136064512) [tanha 2](https://x.com/nickcammarata/status/1649952823843463168)
