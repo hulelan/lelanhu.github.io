@@ -28,6 +28,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 - Michael Nielsen's [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html). Spaced repetition flash cards might not seem so related to "progress," but as [gwern](https://gwern.net/spaced-repetition#where-was-i-going-with-this) says, "It’s a testament to the Enlightenment ideal of improving humanity through reason and overcoming our human flaws...it’s really nice to just have a small example like this in one’s daily life, an example not yet so prosaic and boring as the lightbulb." 
 
 **Technology** 
+
 Really this should be bundled in "progress," since progress is the result of a supportive context (hence politics, economics) for great science and its applications. Despite America's loss of manufacturing communities and the resulting "process knowledge," the online community is really great. I have really enjoyed reading from [Simon Willison](https://simonwillison.net/) and [Paul Graham](https://www.paulgraham.com/).
 
 **Beingness, Godhead**
@@ -42,6 +43,7 @@ Really this should be bundled in "progress," since progress is the result of a s
   <summary>There is no such thing as excerpting propositions, but here are some: </summary>
   
   > *5.6 The limits of my language mean the limits of my world.*
+  
   
   > *6.5 When an answer cannot be stated, neither can the question be stated.*
   >> *There is no such thing as the riddle.*
