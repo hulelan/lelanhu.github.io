@@ -18,7 +18,8 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 - *Varieties of Capitalism* is a "classic political science text." In the "ayy lmao" between grand theories and small experiments, it's a "new theorization of the grand theory of institutions." I liked its relatively expansive reach and tolerance of gray areas between its categories. 
 - *Poor Economics* is a "small experiments" volume. I ended up going through their development economics certification too, and there's something wonderful about the thought that you can make incremental progress towards solving the big problems of hunger and disease. 
 - *Faith in Moderation* from Jillian Schwedler is somewhere in between. I don't remember most of the claims, but I remember it as the first book that connected it theorization to the specificity of the real world, moved between layers of abstractions, and was incredibly granular and precise in its analysis and claims. 
-- *Breakneck* from Dan Wang. Complicated things require thinking that allows multitudes and apparent contradictions. This is one suck book 
+- *Breakneck* from Dan Wang. Complicated things require thinking that allows multitudes and apparent contradictions. This is one such book.  
+- I do really enjoy [Citrini](https://www.citriniresearch.com/). 
 
 **Progress**
 - Samantha Power's *Chasing the Flaame* 
@@ -26,13 +27,15 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 - Jobs
 - Michael Nielsen's [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html). Spaced repetition flash cards might not seem so related to "progress," but as [gwern](https://gwern.net/spaced-repetition#where-was-i-going-with-this) says, "It’s a testament to the Enlightenment ideal of improving humanity through reason and overcoming our human flaws...it’s really nice to just have a small example like this in one’s daily life, an example not yet so prosaic and boring as the lightbulb." 
 
+**Technology** 
+Really this should be bundled in "progress," since progress is the result of a supportive context (hence politics, economics) for great science and its applications. Despite America's loss of manufacturing communities and the resulting "process knowledge," the online community is really great. I have really enjoyed reading from [Simon Willison](https://simonwillison.net/) and [Paul Graham](https://www.paulgraham.com/).
+
 **Godhead**
 
 - Bhagavad Gita. Easwaran's introduction is quite clear as well. I also found the Dhammapada (also Easwaran) and Siddhartha (from Herman Hesse) educational in complementary ways. 
 - Nick Cammarata. [tanha 1](https://x.com/nickcammarata/status/1566589893136064512) [tanha 2](https://x.com/nickcammarata/status/1649952823843463168)
 - [Rob Burbea](https://www.youtube.com/watch?v=n03ZNoO-_p0&list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&ab_channel=RobBurbeaTalks)
 - [mistranslating the buddha: most of the problem is your reaction to it](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html)
-- Visakan Veerasamy
 
 - Wittgenstein's *Tractatus* 
   <details>
@@ -50,12 +53,15 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
   > *6.522 There is, though, the ineffable.*
   >> *This shows itself, it is the mystical.*
   </details>
-- bookbear express
+- Visakan Veerasamy exists on [Twitter](https://x.com/visakanv), [two](https://visakanv.gumroad.com/l/FANbook) [books](https://visakanv.gumroad.com/l/introspect), [Substack](https://visakanv.substack.com/), and [some amalgamation of websites](https://www.visakanv.com/blog/talking-points/). His "elaborate, interwoven [twitter] threads" led me into Internet spaces and hence subcultures that I remain a lurker in, even today.
+- [bookbear express](https://www.avabear.xyz/) is perhaps the only blog for which I've read every single post since I came across it. I do think it's the same topic over and over again, but (1) it's a nice thing to read about over and over again (2) each post is slightly different (3) she cites other works often, and in-context recommendations are always superior to general recommendations. There's an array of other blogs I've enjoyed reading, like [Escaping Flatland](https://www.henrikkarlsson.xyz/), [first draft repo](https://genasoh.substack.com/)
+- [let's get enlightened, from aella](https://aella.substack.com/p/lets-get-enlightened). It seems like Aella's life was better before she reached "social media escape velocity," where she became known for just One Particular Thing, but this was a great piece from her breadth of coverage. 
 
 **Math** 
 We can all be transformed with the really unmatchable sensation of "understanding truth" and seeing the world in a new way. 
 - *A Mathematician's Lament* from Paul Lockhart on the terrible way math is usually taught. What might it mean to actually understand something? 
 - Andrew Neitzke's class notes for Real Analysis. 
+- [3b1b](https://www.youtube.com/c/3blue1brown), how can it be otherwise. 
 
 **Literature**
 - Gabriel García Márquez' *A Hundred Years of Solitude*. 
