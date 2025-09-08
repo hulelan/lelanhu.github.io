@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the question of life"
+title: "the question of life, or why I seem to be inhaling dharma books"
 date: 2025-08-24
 tags: [aliveness]
 ---
@@ -13,3 +13,4 @@ I want to say that all the religious texts that I consider credible - the ones a
 
 What is the relevance of these texts to the "question of life"? I suppose that the question of life is answered via the vanishing of the problem, or that the question is answered by experience. The question is born of ignorance. The question is born of a selfishness instilled in us by evolution, when it comes in contrast with the needlessness of this selfishness. It is also born of great suffering. 
 
+[totally unfinished]

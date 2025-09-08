@@ -37,7 +37,6 @@ Really this should be bundled in "progress," since progress is the result of a s
 - Nick Cammarata. [tanha 1](https://x.com/nickcammarata/status/1566589893136064512) [tanha 2](https://x.com/nickcammarata/status/1649952823843463168)
 - [Rob Burbea](https://www.youtube.com/watch?v=n03ZNoO-_p0&list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&ab_channel=RobBurbeaTalks)
 - [mistranslating the buddha: most of the problem is your reaction to it](https://neuroticgradientdescent.blogspot.com/2020/01/mistranslating-buddha.html)
-
 - Wittgenstein's *Tractatus* 
   <details>
   <summary>There is no such thing as excerpting propositions, but here are some: </summary>
@@ -55,7 +54,7 @@ Really this should be bundled in "progress," since progress is the result of a s
   > *6.522 There is, though, the ineffable.*
   >> *This shows itself, it is the mystical.*
   </details>
-
+- [let's get enlightened, from aella](https://aella.substack.com/p/lets-get-enlightened). It seems like Aella's life was better before she reached "social media escape velocity," where she became known for just One Particular Thing, but this was a great piece from her breadth of coverage. 
 
 **Math** 
 We can all be transformed with the really unmatchable sensation of "understanding truth" and seeing the world in a new way. 
@@ -89,3 +88,8 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - Anna Laura 
 - Joan Miró
 - [insert calligraphy]
+
+**Misc Internet Blogs**
+- Visakan Veerasamy exists on [Twitter](https://x.com/visakanv/status/1330984685992722433), [two](https://visakanv.gumroad.com/l/FANbook) [books](https://visakanv.gumroad.com/l/introspect), [Substack](https://visakanv.substack.com/), and [some amalgamation of websites](https://www.visakanv.com/blog/talking-points/). His "elaborate, interwoven [twitter] threads" led me into Internet spaces and hence subcultures that I remain a lurker in, even today. In some ways, he is upstream of a lot of interests in technology, divinity, and a sense that my life could be more.  
+- [bookbear express](https://www.avabear.xyz/) is perhaps the only blog for which I've read every single post since I came across it. I do think it's the same topic over and over again, but (1) it's a nice thing to read about over and over again (2) each post is slightly different (3) she cites other works often, and in-context recommendations are always superior to general recommendations. 
+- There's an array of other similar blogs I've enjoyed reading, like [Escaping Flatland](https://www.henrikkarlsson.xyz/), [first draft repo](https://genasoh.substack.com/)...
