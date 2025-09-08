@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chocolate"
+title: "what does it mean to understand something"
 date: 2025-09-07
 tags: [aliveness]
 ---
