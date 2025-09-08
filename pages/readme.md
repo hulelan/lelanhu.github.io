@@ -29,7 +29,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 
 **Technology** 
 
-Really this should be bundled in "progress," since progress is the result of a supportive context (hence politics, economics) for great science and its applications. Despite America's loss of manufacturing communities and the resulting "process knowledge," the online community is really great. I have really enjoyed reading from [Simon Willison](https://simonwillison.net/) and [Paul Graham](https://www.paulgraham.com/).
+Really this should be bundled in "progress," since progress is the result of a supportive context (hence politics, economics) for great science and its applications. Despite America's loss of manufacturing communities and the resulting "process knowledge," the online community is really great. I have really enjoyed reading from [Simon Willison](https://simonwillison.net/), [Michael Nielsen](https://michaelnielsen.org/), and [Paul Graham](https://www.paulgraham.com/).
 
 **Beingness, Godhead**
 
@@ -57,6 +57,7 @@ Really this should be bundled in "progress," since progress is the result of a s
 - [let's get enlightened, from aella](https://aella.substack.com/p/lets-get-enlightened). It seems like Aella's life was better before she reached "social media escape velocity," where she became known for just One Particular Thing, but this was a great piece from her breadth of coverage. 
 
 **Math** 
+
 We can all be transformed with the really unmatchable sensation of "understanding truth" and seeing the world in a new way. 
 - *A Mathematician's Lament* from Paul Lockhart on the terrible way math is usually taught. What might it mean to actually understand something? 
 - Andrew Neitzke's class notes for Real Analysis. 
