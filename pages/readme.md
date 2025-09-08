@@ -29,7 +29,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 
 **Technology** 
 
-Really this should be bundled in "progress," since progress is the result of a supportive context (hence politics, economics) for great science and its applications. Despite America's loss of manufacturing communities and the resulting "process knowledge," the online community is really great. I have really enjoyed reading from [Simon Willison](https://simonwillison.net/), [Michael Nielsen](https://michaelnielsen.org/), and [Paul Graham](https://www.paulgraham.com/).
+Really this should be bundled in "progress," since progress is the result of a supportive context (hence politics, economics) for great science and its applications, but we'll leave it separated. Despite America's loss of manufacturing communities and the resulting "process knowledge," the online community for non-physical technology is really great. I have really enjoyed reading from [Simon Willison](https://simonwillison.net/), [Michael Nielsen](https://michaelnielsen.org/), and [Paul Graham](https://www.paulgraham.com/).
 
 **Beingness, Godhead**
 
