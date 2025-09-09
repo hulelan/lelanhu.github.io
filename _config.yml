@@ -9,6 +9,13 @@ github_username:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  hard_wrap: true
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 2..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
 permalink: /writing/:year/:month/:day/:title/
 
 # Collections
