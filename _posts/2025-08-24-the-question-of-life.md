@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "a conceptual framework for inquiry into the Self"
+title: "[wrangling] a conceptual framework for inquiry into the Self"
 date: 2025-08-24
 tags: [aliveness]
 ---

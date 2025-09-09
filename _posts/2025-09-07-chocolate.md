@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chocolate"
+title: "[wrangling] chocolate"
 date: 2025-09-07
 tags: [aliveness]
 ---

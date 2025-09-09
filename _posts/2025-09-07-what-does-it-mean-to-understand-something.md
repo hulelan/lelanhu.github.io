@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "what does it mean to understand something"
+title: "[wrangling] what does it mean to understand something"
 date: 2025-09-07
 tags: [aliveness]
 ---
