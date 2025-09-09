@@ -5,3 +5,4 @@ date: 2025-09-07
 tags: [aliveness]
 ---
 
+[revisiting notes from studying math]

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "the question of life, or why I seem to be inhaling dharma books"
+title: "a conceptual framework for inquiry into the Self"
 date: 2025-08-24
 tags: [aliveness]
 ---
+
+Tractatus 5.64. One sees here that solipsism, strictly followed through, coincides with pure realism. The self of solipsism shrinks to an extensionless point and what is left is the reality coordinated with it.
 
 What is the question of life?
 
