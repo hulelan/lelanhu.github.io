@@ -61,6 +61,7 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - *A Mathematician's Lament* from Paul Lockhart on the terrible way math is usually taught. What might it mean to actually understand something? 
 - Andrew Neitzke's class notes for Real Analysis. 
 - [3b1b](https://www.youtube.com/c/3blue1brown), how can it be otherwise. 
+- There are various Quanta Magazine pieces that illustrate what math can be. [insert some favorites]
 
 **Literature**
 - Gabriel García Márquez' *A Hundred Years of Solitude*. 
