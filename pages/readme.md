@@ -33,7 +33,7 @@ Really this should be bundled in "progress," since progress is the result of a s
 
 **Beingness**
 
-- Bhagavad Gita. Easwaran's introduction is quite clear as well. I also found the Dhammapada (also Easwaran) and Siddhartha (from Herman Hesse) educational in complementary ways. 
+- Bhagavad Gita. Easwaran's introduction is quite clear as well. I also found Siddhartha (from Herman Hesse) and the Dhammapada (also Easwaran) thought-enriching in complementary ways. 
 - Marilynne Robinson's *Gilead*
 - Wittgenstein's *Tractatus* 
   <details>
@@ -53,7 +53,7 @@ Really this should be bundled in "progress," since progress is the result of a s
   >> *This shows itself, it is the mystical.*
   </details>
 - [Rob Burbea](https://www.youtube.com/watch?v=n03ZNoO-_p0&list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&ab_channel=RobBurbeaTalks)
-
+- Nick Cammarata. [tanha 1](https://x.com/nickcammarata/status/1566589893136064512) [tanha 2](https://x.com/nickcammarata/status/1649952823843463168)
 
 **Math** 
 
