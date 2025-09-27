@@ -64,9 +64,9 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - There are various Quanta Magazine pieces that illustrate what math can be. [insert some favorites]
 
 **Literature**
-- Gabriel García Márquez' *A Hundred Years of Solitude*. 
+- Gabriel García Márquez' *A Hundred Years of Solitude*. After this, I was so astonished that I also went on to *Pedro Páramo* from Juan Rulfo, for which Gabo said, "That night I couldn't sleep until I had read it twice...I could recite the entire book front to back and vice versa without a single appreciable error, I could tell you on which page of my edition each scene could be found." Perhaps I am too generationally and culturally removed: *A Hundred Years of Solitude* is indisputably more wonderful to me.  
   <details>
-  <summary>An excerpt</summary>
+  <summary>An excerpt of *A Hundred Years of Solitude*</summary>
   
   Before them, surrounded by ferns and palm trees, white and powdery in the silent morning light, was an enormous Spanish galleon. Tilted slightly to the starboard, it had hanging from its intact masts the dirty rags of its sails in the midst of its rigging, which was adorned with orchids. The hull, covered with an armor of petrified barnacles and soft moss, was firmly fastened into a surface of stones. The whole structure seemed to occupy its own space, one of solitude and oblivion, protected from the vices of time and the habits of the birds. Inside, where the expeditionaries explored with careful intent, there was nothing but a thick forest of flowers.
   </details>
@@ -76,6 +76,8 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - Iris Murdoch's *The Sea, The Sea*. 
 - Bulgakov's *The Master and Margarita*. 
 - Frank O’Hara's *Mayakovsky*. 
+- OSC's *Xenocide*. This is an old one, but I remember reading it three times. 
+- Asimov's *Prelude to Foundation*. 
 
 **Music**
 - Radiohead's album *In Rainbows*. Notably, "Weird Fishes/Arpeggi".
