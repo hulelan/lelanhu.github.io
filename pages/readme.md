@@ -54,6 +54,7 @@ Really this should be bundled in "progress," since progress is the result of a s
   </details>
 - [Rob Burbea](https://www.youtube.com/watch?v=n03ZNoO-_p0&list=PLO6hhaAzLmipGYeeZCr-Cn_YuJj_XgUat&ab_channel=RobBurbeaTalks)
 - Nick Cammarata. [tanha 1](https://x.com/nickcammarata/status/1566589893136064512) [tanha 2](https://x.com/nickcammarata/status/1649952823843463168)
+- ![Exact Thinking in Demented Times](image.png)
 
 **Math** 
 
