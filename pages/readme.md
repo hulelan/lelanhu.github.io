@@ -34,6 +34,9 @@ Really this should be bundled in "progress," since progress is the result of a s
 **Beingness**
 
 - Bhagavad Gita. Easwaran's introduction is quite clear as well. I also found Siddhartha (from Herman Hesse) and the Dhammapada (also Easwaran) thought-enriching in complementary ways. 
+  <details> 
+    Right understanding is seeing life as it is. In the midst of change, where is there a place to stand firm? Where is there anything to have and hold? To know that happiness cannot come from anything outside, and that all things that come into being have to pass away: this is right understanding, the beginning of wisdom.
+  </details>
 - Marilynne Robinson's *Gilead*
 - Wittgenstein's *Tractatus* 
   <details>
