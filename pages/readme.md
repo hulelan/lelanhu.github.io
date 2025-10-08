@@ -29,7 +29,7 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 
 **Technology** 
 
-Really this should be bundled in "progress," since progress is the result of a supportive context (hence politics, economics) for great science and its applications, but we'll leave it separated. Despite America's loss of manufacturing communities and the resulting "process knowledge," the online community for non-physical technology is really great. I have really enjoyed reading from [Simon Willison](https://simonwillison.net/), [Michael Nielsen](https://michaelnielsen.org/), and [Paul Graham](https://www.paulgraham.com/).
+Really this should be bundled in "progress," since progress is the result of a supportive context (hence politics, economics) for great science and its applications, but we'll leave it separated. Despite America's loss of manufacturing communities and the resulting "process knowledge," the online community for non-physical technology is really great. I have really enjoyed reading from [Simon Willison](https://simonwillison.net/), [Michael Nielsen](https://michaelnielsen.org/), and [Paul Graham](https://paulgraham.com/worked.html).
 
 **Beingness**
 
@@ -81,7 +81,8 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - Bulgakov's *The Master and Margarita*. 
 - Frank O’Hara's *Mayakovsky*. 
 - OSC's *Xenocide*. This is an old one, but I remember reading it three times. 
-- Asimov's *Prelude to Foundation*. 
+- Asimov's *Prelude to Foundation*. I also remember this as a 3x-er, but I haven't tried since middle school so don't know how it aged. 
+- Dunlop's *Invitation to a Banquet*. Very fun. Since the author isn't burdened by being born into Chineseness, she can tell me all about the weird things about Chinese food that I otherwise would not have noticed! A fish does not know how the water is, after all. 
 
 **Music**
 - Radiohead's album *In Rainbows*. Notably, "Weird Fishes/Arpeggi".
