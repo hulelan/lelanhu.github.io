@@ -136,9 +136,3 @@ Main stylesheet is located at `assets/css/main.css`. The design uses:
 ## License
 
 This project is open source and available under the MIT License.
-
-## Calligraphy
-
-![Chinese Calligraphy](assets/images/calligraphy.png)
-
-*Traditional Chinese calligraphy artwork featured on this site*
