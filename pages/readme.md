@@ -13,13 +13,11 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 ![Ayy lmao meme](/assets/images/ayy-lmao.png)
 
 **The Collective**
-- *Varieties of Capitalism* is a "classic political science text." In the "ayy lmao" between grand theories and small experiments, it's a "new theorization of the grand theory of institutions." I liked its relatively expansive reach and tolerance of gray areas between its categories. 
-- *Poor Economics* is a "small experiments" volume. I ended up going through their development economics certification too, and there's something wonderful about the thought that you can make incremental progress towards solving the big problems of hunger and disease. 
-- *Faith in Moderation* from Jillian Schwedler is somewhere in between. I don't remember most of the claims, but I remember it as the first book that connected it theorization to the specificity of the real world, moved between layers of abstractions, and was incredibly granular and precise in its analysis and claims. 
-- *Breakneck* from Dan Wang. Complicated things require thinking that allows multitudes and apparent contradictions. This is one such book.  
-- I do really enjoy [Citrini](https://www.citriniresearch.com/). 
-- *More Money Than God* is very fun and a great way to "live" markets.
-- *The Prize* is technically a history of oil, but it's really a wonderful depiction of "economics" and "politics" as they exist at the more granular level of individual interactions and choices. 
+- *Varieties of Capitalism*. I really enjoyed its version of a "grand theory" and tolerance of complexity and interconnection. 
+- *Poor Economics*. At a totally different layer of abstraction (at the "atomic" of a social science), sometimes it is nice to know that something is Most Likely True, and you can make sure and steady progress towards big problems. Big ideas are not for solving problems. Big ideas are for inspiration. 
+- *Faith in Moderation* from Jillian Schwedler. I don't remember most of the claims, but I remember it as the first book I read that moved between the big and the small and was satisfying granular/precise in its analyses. I was almost sure I wanted to do a PhD after this, but alas it was not meant to be. 
+- *The Prize*. Technically a history of oil! But really it's a wonderful depiction of "economics" and "politics" as they exist at the "more real" level of individual interactions and choices. 
+- *More Money Than God* is also great fun. 
 
 **Progress**
 - Samantha Power's *Chasing the Flame*. Sérgio Vieira de Mello was a Brazilian/UN diplomat with a long (but not long enough) career contending with evil and suffering in basically every failed state and warzone in the late 20th century. He was the first official to speak to Khmer Rouge; in the Balkans talking to the Serbs, the Albanians, and the Americans; he was in Sergio post-genocide figuring out how to be humanitarian without fueling war; he was in East Timor setting up the pseudo-interim-government...(Apparently someone joked that his autobiography ought to be titled “My Friends, the War Criminals.”) Despite the standard impossibilities of international politics and violent local grievances, it has filled me with hope that a single competent person can do so much, and that there are people who found a way to hold both idealism and pragmatism in one life. He died in the suicide bombing of Canal Hotel in Baghdad, on August 19, 2003. 
@@ -88,7 +86,7 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - Radiohead's album *In Rainbows*. Notably, "Weird Fishes/Arpeggi".
 - Chick Corea's *Spain*. The life! The fun!
 
-**Visual Arts**
+**Painting**
 - Rothko. It is a great gift to see one in person and an even greater joy to see 115 of them in Paris (thanks Arnault!). 
 - Monet. Obviously, but the colors are delicate, precise, take you somewhere that doesn't exist but is also everywhere in nature. 
 - Kandinsky
