@@ -95,4 +95,4 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - Picasso's *Repose*. She's perfect!
 - Anna Laura 
 - Joan Miró
-![Chinese Calligraphy](./assets/images/calligraphy.jpg)
+![Chinese Calligraphy](../assets/images/calligraphy.jpg)
