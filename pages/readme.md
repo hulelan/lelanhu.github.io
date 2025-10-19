@@ -12,6 +12,8 @@ I'll add that writing about yourself also fossilizes one possible story. A perso
 
 ![Ayy lmao meme](/assets/images/ayy-lmao.png)
 
+**Top Hits**
+
 **The Collective**
 - *Varieties of Capitalism*. I really enjoyed its version of a "grand theory" and tolerance of complexity and interconnection. 
 - *Poor Economics*. At a totally different layer of abstraction (at the "atomic" of a social science), sometimes it is nice to know that something is Most Likely True, and you can make sure and steady progress towards big problems. Big ideas are not for solving problems. Big ideas are for inspiration. 
@@ -93,4 +95,4 @@ We can all be transformed with the really unmatchable sensation of "understandin
 - Picasso's *Repose*. She's perfect!
 - Anna Laura 
 - Joan Miró
-![Chinese Calligraphy](assets/images/calligraphy.png)
+![Chinese Calligraphy](./assets/images/calligraphy.jpg)
